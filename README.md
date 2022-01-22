@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MeloDev2111&color=orange">
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-F5E277?style=flat-square">
-  <img src="https://img.shields.io/badge/Systems%20Engineer-Incoming-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Systems%20Engineer-Incoming-BDECB6?style=flat-square">
   
 
   <a href="https://www.linkedin.com/in/melio-diaz-diaz/" target="_blank">
@@ -17,7 +17,10 @@
   <img src="images/coding.gif">
 </p>
 
-## 🤵 About Me:⚙️In Process ⚙️
+## 🤵 About Me:
+- **Currently studying my 4th year of Systems Engineering at National University of Santa, Peru**
+- **Improving as a professional and as a person** 
+- ___Constantly searching for new goals and giving my best to be successful___
 
 ## 📜 Portfolio:⚙️In Process ⚙️
 [comment]: <> ( corchete Click Aquí corchete parantesis http://melodev.vercel.app parantesis )

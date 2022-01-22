@@ -17,7 +17,7 @@
   <img src="images/coding.gif">
 </p>
 
-## 🤵 About Me:
+## 🌚 About Me:
 - **Currently studying my 4th year of Systems Engineering at National University of Santa, Peru**
 - **Improving as a professional and as a person** 
 - ___Constantly searching for new goals and giving my best to be successful___

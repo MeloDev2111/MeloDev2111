@@ -1,11 +1,20 @@
+<h1 align="center">
+  ¡Hello there! I'm Melio Diaz 🌒 
+</h1>
 <p align="center">
-  <h1>¡Hello there! I'm Melio Diaz 🌒 </h1>
+  <img src="https://komarev.com/ghpvc/?username=MeloDev2111&color=orange">
+  <img src="https://img.shields.io/badge/Data%20Scientist-Enthusiast-F5E277?style=flat-square">
+  <img src="https://img.shields.io/badge/Systems%20Engineer-Incoming-green?style=flat-square">
+  
+
+  <a href="https://www.linkedin.com/in/melio-diaz-diaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+
+  <img src="https://img.shields.io/github/followers/MeloDev2111?label=Followers&style=flat-square&logo=github">
 </p>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=MeloDev2111&color=orange) ![](https://img.shields.io/badge/Data%20Scientist-Enthusiast-F5E277?style=flat-square) ![](https://img.shields.io/badge/Systems%20Engineer-Incoming-green?style=flat-square) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melio-diaz-diaz/) ![](https://img.shields.io/github/followers/MeloDev2111?label=Followers&style=flat-square&logo=github)
-</p>
-<p align="center">
-  ![](images/coding.gif)
+  <img src="images/coding.gif">
 </p>
 
 ## 🤵 About Me:⚙️In Process ⚙️

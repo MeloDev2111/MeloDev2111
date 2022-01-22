@@ -1,13 +1,13 @@
 <h1 align="center">
-  ¡Hello there! I'm Melio Diaz 🌒 
+  ¡Hello there! I'm Melio 🌒 
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MeloDev2111&color=orange">
-  <img src="https://img.shields.io/badge/Data%20Scientist-Enthusiast-F5E277?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-F5E277?style=flat-square">
   <img src="https://img.shields.io/badge/Systems%20Engineer-Incoming-green?style=flat-square">
   
 
-  <a href="https://www.linkedin.com/in/melio-diaz-diaz/">
+  <a href="https://www.linkedin.com/in/melio-diaz-diaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 

@@ -18,7 +18,7 @@
 </p>
 
 ## 🌚 About Me:
-- **Currently studying my 4th year of Systems Engineering at National University of Santa, Peru**
+- **Currently studying my last year of Systems Engineering at National University of Santa, Peru**
 - **Improving as a professional and as a person** 
 - ___Constantly searching for new goals and giving my best to be successful___
 

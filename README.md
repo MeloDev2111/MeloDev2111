@@ -28,4 +28,4 @@
 
 | Top Langs | Rank |
 | --------- | ----   | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloDev2111&count_private=true&hide=Blade&theme=ayu-mirage&layout=compact)  | ![MeloDev's github stats](https://github-readme-stats.vercel.app/api?username=MeloDev2111&hide=contribs,issues&include_all_commits=false&show_icons=false&theme=ayu-mirage)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloDev2111&count_private=false&hide=Blade&theme=ayu-mirage&layout=compact)  | ![MeloDev's github stats](https://github-readme-stats.vercel.app/api?username=MeloDev2111&hide=contribs,issues&include_all_commits=false&show_icons=false&theme=ayu-mirage)|

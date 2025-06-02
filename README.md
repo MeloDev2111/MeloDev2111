@@ -29,3 +29,13 @@
 | Top Langs | Rank |
 | --------- | ----   | 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloDev2111&count_private=false&hide=Blade&theme=ayu-mirage&layout=compact)  | ![MeloDev's github stats](https://github-readme-stats.vercel.app/api?username=MeloDev2111&hide=contribs,issues&include_all_commits=false&show_icons=false&theme=ayu-mirage)|
+
+## 🥋 Coding Problem Stats
+| Codewars | LeetCode |
+| --------- | ----   | 
+| ![Codewars](https://github.r2v.ch/codewars?user=MeloDev&stroke=%23BB432C) | ![LeetCode Stats](https://leetcard.jacoblin.cool/MeloDev2111?theme=catppuccinMocha&font=Noto%20Sans%20Osage) |
+
+
+
+
+

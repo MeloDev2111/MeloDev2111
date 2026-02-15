@@ -9,6 +9,9 @@
   <a href="https://melodev2111.github.io/portfolio/en/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-c08b5a?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
+  <a href="https://github.com/MeloStudy" target="_blank">
+    <img src="https://img.shields.io/badge/MeloStudy-Lab-blueviolet?style=flat-square&logo=github&logoColor=white">
+  </a>
   <a href="https://github.com/MeloDev2111?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/MeloDev2111.svg?style=social&label=Follow&maxAge=2592000">
   </a>
@@ -24,6 +27,7 @@
 - 🛠️ Building robust solutions with **Java, Spring Boot**, and **Python**.
 - 💡 Passionate about **Software Architecture**, **DevOps**, and **Data Science**.
 - 🚀 Currently driving digital transformation in the education sector.
+- 📒 I keep my learning notebooks and experiments separated at **[MeloStudy](https://github.com/MeloStudy)**.
 
 ## 🛠️ Tech Stack
 

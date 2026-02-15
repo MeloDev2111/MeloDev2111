@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/melio-diaz-diaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://melodev2111.github.io/portfolio/en/" target="_blank">
+  <a href="https://melodev2111.github.io/portfolio/en/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-c08b5a?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://github.com/MeloDev2111?tab=followers" target="_blank">

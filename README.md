@@ -1,6 +1,10 @@
-<h1 align="center">
-  Hello there! I'm Melio 🌒 
-</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.svg">
+    <img src="images/banner-light.svg" alt="Hello there! I'm Melio - Software Engineer" width="100%">
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MeloDev2111&color=c08b5a&style=flat-square&label=Profile+Views">
   <a href="https://www.linkedin.com/in/melio-diaz-diaz/" target="_blank">
@@ -20,16 +24,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="images/coding.gif" width="100%">
-</p>
-
 ## 👨‍💻 About Me
 
-- 🔭 Software Engineer with experience in **High-Scalability Platforms** & **Cloud Computing**.
-- 🛠️ Building robust solutions with **Java, Spring Boot**, and **Python**.
-- 💡 Passionate about **Software Architecture**, **DevOps**, and **Data Science**.
 - 🚀 Currently Java Developer at **Globant**.
+- 💡 Passionate about **Software Architecture**, **DevOps**, and **Data Science**.
 - 🌱 Exploring: Quarkus, Kubernetes and AI-assisted development (AI-DLC).
 - 🤝 Building **[Chamba Lab](https://chamba-lab.github.io/home/)**, a community-led tech platform for people growing their tech careers.
 - 📒 I keep my learning notebooks and experiments separated at **[MeloStudy](https://github.com/MeloStudy)**.

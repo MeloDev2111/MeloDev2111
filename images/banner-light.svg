@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t d">
+  <title id="t">Hello there! I'm Melio - Software Engineer</title>
+  <desc id="d">Banner: Hello there! I'm Melio. Software Engineer. Backend, Cloud and AI. A crescent moon with three orbits.</desc>
+  <style>
+    .orb{transform-origin:1020px 120px}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .o0{animation:spin 26s linear infinite;animation-direction:normal}.o1{animation:spin 42s linear infinite;animation-direction:reverse}.o2{animation:spin 64s linear infinite;animation-direction:normal}
+    @media (prefers-reduced-motion:reduce){.orb{animation:none}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1ea"/><stop offset="1" stop-color="#ede5d9"/></linearGradient>
+    <radialGradient id="gl" cx="0.85" cy="0.5" r="0.5"><stop offset="0" stop-color="#8a5a2b" stop-opacity="0.18"/><stop offset="1" stop-color="#8a5a2b" stop-opacity="0"/></radialGradient>
+    <pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1c2230" stroke-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1200" height="240" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="14" fill="url(#gr)"/>
+  <rect width="1200" height="240" rx="14" fill="url(#gl)"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="13.5" fill="none" stroke="#8a5a2b" stroke-opacity="0.35"/>
+
+  <circle cx="1020" cy="120" r="62" fill="none" stroke="#8a5a2b" stroke-opacity="0.45"/>
+  <g class="orb o0"><circle cx="961.7" cy="98.8" r="3.5" fill="#8a5a2b"/></g>
+  <circle cx="1020" cy="120" r="88" fill="none" stroke="#8a5a2b" stroke-opacity="0.3" stroke-dasharray="3 7"/>
+  <g class="orb o1"><circle cx="1087.4" cy="63.4" r="5" fill="#8a5a2b"/></g>
+  <circle cx="1020" cy="120" r="112" fill="none" stroke="#8a5a2b" stroke-opacity="0.18"/>
+  <g class="orb o2"><circle cx="934.2" cy="192.0" r="4" fill="#8a5a2b"/></g>
+  <g transform="translate(1020 120) scale(1.05)"><path d="M14 -36a38 38 0 1 0 0 72a30 30 0 1 1 0 -72z" fill="#8a5a2b"/></g>
+
+  <rect x="80" y="46" width="48" height="4" fill="#8a5a2b"/>
+  <text x="80" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#5b6475">Hello there! I'm Melio</text>
+  <text x="80" y="160" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-1" fill="#1c2230">Software Engineer</text>
+  <text x="80" y="202" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" fill="#8a5a2b">Backend · Cloud · AI</text>
+</svg>

@@ -9,6 +9,9 @@
   <a href="https://melodev2111.github.io/portfolio/en/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-c08b5a?style=flat-square&logo=google-chrome&logoColor=white">
   </a>
+  <a href="https://chamba-lab.github.io/home/" target="_blank">
+    <img src="https://img.shields.io/badge/Chamba_Lab-Community-2ea44f?style=flat-square&logo=discord&logoColor=white">
+  </a>
   <a href="https://github.com/MeloStudy" target="_blank">
     <img src="https://img.shields.io/badge/MeloStudy-Lab-blueviolet?style=flat-square&logo=github&logoColor=white">
   </a>
@@ -23,25 +26,29 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Systems Engineer with experience in **High-Scalability Platforms** & **Cloud Computing**.
+- 🔭 Software Engineer with experience in **High-Scalability Platforms** & **Cloud Computing**.
 - 🛠️ Building robust solutions with **Java, Spring Boot**, and **Python**.
 - 💡 Passionate about **Software Architecture**, **DevOps**, and **Data Science**.
-- 🚀 Currently driving digital transformation in the education sector.
+- 🚀 Currently Java Developer at **Globant**.
+- 🌱 Exploring: Quarkus, Kubernetes and AI-assisted development (AI-DLC).
+- 🤝 Building **[Chamba Lab](https://chamba-lab.github.io/home/)**, a community-led tech platform for people growing their tech careers.
 - 📒 I keep my learning notebooks and experiments separated at **[MeloStudy](https://github.com/MeloStudy)**.
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,gcp,docker,git,mysql,postgres,ts,react,astro&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,ts,react,astro,git,aws,gcp,docker,kubernetes,mysql,postgres,mongodb,redis&theme=dark&perline=8" />
   </a>
 </p>
 
-## 📊 GitHub Stats
+## ⭐ Spaces & Platforms
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![MeloDev Stats](https://melodev-github-readme-stats.vercel.app/api?username=MeloDev2111&show_icons=true&bg_color=0c111c&title_color=c08b5a&text_color=e1e1e0&icon_color=c08b5a&border_color=c08b5a&hide_border=false) | ![Top Languages](https://melodev-github-readme-stats.vercel.app/api/top-langs/?username=MeloDev2111&layout=compact&bg_color=0c111c&title_color=c08b5a&text_color=e1e1e0&border_color=c08b5a&hide_border=false&hide=Blade) |
+| | Space | What it is |
+| :---: | :--- | :--- |
+| 🌐 | **[Portfolio](https://melodev2111.github.io/portfolio/en/)** | My personal site: backend architecture & cloud work. Astro · React · Tailwind. |
+| 🤝 | **[Chamba Lab](https://chamba-lab.github.io/home/)** | Community-led tech platform. Join us on Discord. |
+| 📚 | **[MeloStudy](https://github.com/MeloStudy)** | My learning lab: notebooks, certifications and experiments. |
 
 ## 🥋 Coding Problem Stats
 
